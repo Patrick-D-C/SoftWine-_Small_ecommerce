@@ -5,7 +5,7 @@ Uma antiga loja de vinhos gostaria de vender seus produtos também pela internet
 
 ## Ferramentas utilizadas
 
-Para realizar o desafio escolhido as linguagens PHP(Back-end), Js[React](Front-end) e MySQL, com o proposito de desenvolver uma aplicação Restful simples e consistente.
+Para realizar o desafio escolhido as linguagens PHP(Back-end), React.JS (Front-end) e MySQL, com o proposito de desenvolver uma aplicação Restful simples e consistente.
 
 Optei em desenvolver a arquitetura com foco em somente  realizar requisições que fossem realmente necessarias, aproveitando a consistencia e confiabilidade do REACT para se encarar das regras do frete.
 

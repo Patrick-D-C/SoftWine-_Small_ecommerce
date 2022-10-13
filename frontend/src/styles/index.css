@@ -1,0 +1,36 @@
+main {
+  max-width: 1280px;
+  margin: auto;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav a {
+  text-decoration: none;
+}
+
+.wine-name {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+.wine-type {
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+.wine-weight {
+  font-size: 0.8rem;
+}
+.wine-price {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #650486;
+}
+
+@media screen and (max-width: 1280px) {
+  main {
+    margin: 0 2rem;
+  }
+}
